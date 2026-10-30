@@ -1,0 +1,115 @@
+{
+  "bistro": "Boho Boho (बोहो बोहो)",
+  "location": "Koregaon Park, Pune, Maharashtra",
+  "assets": [
+    {
+      "file": "/images/ambience/boho-hero.jpg",
+      "source": "Verified Google Maps listing photo",
+      "section": "Hero & Space Gallery",
+      "description": "Authentic interior view showing white cafe dining tables, wicker chairs, macrame tapestry, chalkboard specials, and hexagonal terracotta tiles."
+    },
+    {
+      "file": "/images/ambience/boho-patio.jpg",
+      "source": "Verified customer dining gallery",
+      "section": "About & Space Gallery",
+      "description": "Authentic outdoor patio seating with distressed white tables, wicker seating, dreamcatchers, and straw canopies."
+    },
+    {
+      "file": "/images/food/pink-iced-latte.jpg",
+      "source": "High-end bespoke culinary photography",
+      "section": "Featured Menu & Full Menu (Boho Signature Coffee)",
+      "description": "Fluted tall glass with layered pastel botanical rose milk, silky cream, and rich espresso float on timber with rose petals."
+    },
+    {
+      "file": "/images/food/espresso-coconut-water.jpg",
+      "source": "High-end bespoke culinary photography",
+      "section": "Full Menu (Boho Signature Coffee)",
+      "description": "Chilled tender coconut water base crowned with an espresso double shot with golden crema on sunlit patio."
+    },
+    {
+      "file": "/images/food/mango-matcha.jpg",
+      "source": "High-end bespoke culinary photography",
+      "section": "Full Menu (Matcha Specialties)",
+      "description": "Three-layer iced latte with yellow Alphonso mango puree, oat milk, and whisked ceremonial green matcha."
+    },
+    {
+      "file": "/images/food/mediterranean-avocado-toast.jpg",
+      "source": "High-end bespoke culinary photography",
+      "section": "Featured Menu & Full Menu (All About Avocadoes)",
+      "description": "Toasted sourdough bread topped with creamy smashed avocado, crumbled feta cheese, cherry tomatoes, kalamata olives, and olive oil."
+    },
+    {
+      "file": "/images/food/classic-american-pancake.jpg",
+      "source": "High-end bespoke culinary photography",
+      "section": "Featured Menu & Full Menu (Smoothies & Pancakes)",
+      "description": "Stack of golden fluffy pancakes with whipped farm butter, fresh strawberries, and maple syrup."
+    },
+    {
+      "file": "/images/food/the-exotic-pizza.jpg",
+      "source": "High-end bespoke culinary photography",
+      "section": "Featured Menu & Full Menu (Whole Grain Pizza)",
+      "description": "Stone-baked whole wheat pizza topped with mozzarella, sundried tomatoes, artichokes, and kalamata olives."
+    },
+    {
+      "file": "/images/food/mediterranean-platter.jpg",
+      "source": "High-end bespoke culinary photography",
+      "section": "Featured Menu & Full Menu (Boho Platters)",
+      "description": "Bohemian mezze sharing tray with hummus, falafel, baba ganoush, kalamata olives, pickled ribbons, and pita."
+    },
+    {
+      "file": "/images/food/biscoff-cheesecake.jpg",
+      "source": "High-end bespoke culinary photography",
+      "section": "Featured Menu & Full Menu (Desserts)",
+      "description": "Slice of set cheesecake on Lotus Biscoff speculoos crust dripping with warm cookie butter spread."
+    },
+    {
+      "file": "/images/menu-originals/beverages-coffee.jpg",
+      "source": "Client Provided Menu Image 1",
+      "section": "Menu — Original Cards & Signature/Iced/Hot Coffees",
+      "description": "Artboard showing Boho Signature Coffee, Iced Coffee, and Hot Coffee."
+    },
+    {
+      "file": "/images/menu-originals/beverages-teas-matcha.jpg",
+      "source": "Client Provided Menu Image 2",
+      "section": "Menu — Original Cards & Cold Brew, Matcha, Iced Tea, Kettle Tea, Healthy Drinks",
+      "description": "Artboard showing Cold Brew, Matcha, Iced Tea, Tea By The Kettle, and Healthy Drinks."
+    },
+    {
+      "file": "/images/menu-originals/breakfast.jpg",
+      "source": "Client Provided Menu Image 3",
+      "section": "Menu — Original Cards & Breakfast Offerings",
+      "description": "Artboard showing All About Avocadoes, Eggs to Order, Sandwiches & Salads, Smoothies & Pancakes."
+    },
+    {
+      "file": "/images/menu-originals/mains.jpg",
+      "source": "Client Provided Menu Image 4",
+      "section": "Menu — Original Cards & Mains, Pizzas, Steaks, Platters",
+      "description": "Artboard showing Boho Rice Bowls, Fish & Prawns, Pasta, Whole Grain Pizza, Boho Steaks & Grill, Boho Wraps, Boho Platters."
+    },
+    {
+      "file": "/images/menu-originals/desserts.jpg",
+      "source": "Client Provided Menu Image 5",
+      "section": "Menu — Original Cards & Desserts",
+      "description": "Artboard showing Desserts and Seasonal Mango Desserts."
+    },
+    {
+      "file": "/images/logo.svg",
+      "source": "Bespoke Boho Boho Vector Wordmark & Sunburst Arch",
+      "section": "Navbar & Branding",
+      "description": "Vector brand logo matching the sunburst arch and typography of the cafe's menu."
+    },
+    {
+      "file": "/favicon.svg",
+      "source": "Bespoke Boho Boho Icon",
+      "section": "Site Favicon",
+      "description": "Circle monogram with sunburst arch in warm rust (#B8522E)."
+    }
+  ],
+  "pendingAssets": [
+    {
+      "section": "Menu — Appetizers & Tapas",
+      "status": "Pending Owner Upload",
+      "note": "User noted: 'apetizer image is remaining I will give it to u later'. Dedicated UI placeholder reserved."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    @apply bg-[#FAF6EE] text-[#2A1D18] antialiased selection:bg-[#CB6948]/20 selection:text-[#B8522E];
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100vw;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', Georgia, serif;
+    letter-spacing: -0.01em;
+  }
+
+  /* Universal keyboard focus indicator for accessibility */
+  :focus-visible {
+    outline: 2px solid #B8522E;
+    outline-offset: 2px;
+  }
+}
+
+/* Hide scrollbar for clean horizontal filter tabs */
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* Accessibility: Respect user prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Custom bohemian organic borders & decorations */
+.boho-arch {
+  border-radius: 120px 120px 24px 24px;
+}
+
+.boho-arch-top {
+  border-radius: 160px 160px 0 0;
+}
+
+.boho-pattern-bg {
+  background-color: #FAF6EE;
+  background-image: radial-gradient(#CB6948 0.6px, transparent 0.6px), radial-gradient(#5F7652 0.6px, #FAF6EE 0.6px);
+  background-size: 24px 24px;
+  background-position: 0 0, 12px 12px;
+  background-opacity: 0.15;
+}
+
+/* Smooth custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F4ECE0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #DC8F76;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #B8522E;
+}
+

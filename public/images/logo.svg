@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" fill="none">
+  <!-- Sunburst Arch -->
+  <g stroke="#B8522E" stroke-width="1.5" stroke-linecap="round">
+    <path d="M180,36 C180,24 220,24 220,36" />
+    <path d="M174,38 C174,20 226,20 226,38" />
+    <!-- Rays -->
+    <line x1="200" y1="16" x2="200" y2="8" />
+    <line x1="188" y1="19" x2="182" y2="13" />
+    <line x1="212" y1="19" x2="218" y2="13" />
+    <line x1="178" y1="27" x2="171" y2="23" />
+    <line x1="222" y1="27" x2="229" y2="23" />
+    <!-- Small star -->
+    <circle cx="200" cy="27" r="1.5" fill="#B8522E" />
+  </g>
+
+  <!-- Boho Boho Typography -->
+  <text x="200" y="70" 
+        text-anchor="middle" 
+        font-family="'Playfair Display', Georgia, serif" 
+        font-size="34" 
+        font-weight="600" 
+        letter-spacing="5" 
+        fill="#B8522E">
+    BOHO BOHO
+  </text>
+
+  <!-- Tagline -->
+  <g fill="#5F7652" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="8.5" font-weight="600" letter-spacing="2.8">
+    <text x="200" y="88" text-anchor="middle">
+      GOOD FOOD  •  GOOD MOOD  •  GOOD VIBES
+    </text>
+  </g>
+
+  <!-- Decorative under-bar with diamond -->
+  <line x1="140" y1="98" x2="190" y2="98" stroke="#D07655" stroke-width="0.8" stroke-dasharray="2 2" />
+  <polygon points="200,95 203,98 200,101 197,98" fill="#B8522E" />
+  <line x1="210" y1="98" x2="260" y2="98" stroke="#D07655" stroke-width="0.8" stroke-dasharray="2 2" />
+</svg>
+
